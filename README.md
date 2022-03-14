@@ -54,7 +54,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
 ```sh
-git clone https://github.com/hanifkumara/telegram-app.git
+git clone https://github.com/hanifkumara/online-store.git
 ```
 2. Install Yarn packages
 
@@ -64,23 +64,23 @@ yarn install
 
 3. Add .env file at root folder project, and add following
 ```sh
-VUE_APP_SERVICE_API= http://localhost:5000/api/v1
-VUE_APP_SOCKET_URL= http://localhost:5000
+VUE_APP_API_URL= http://localhost:5000
+VUE_APP_TITLE= Online Store
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+yarn build
 ```
 
 ### Lints and fixes files
 ```
-yarn run lint
+yarn lint
 ```
 
 ### Customize configuration
