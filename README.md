@@ -31,7 +31,7 @@
 * [Contact](#contact)
 
 ## About the Project
-TelegramApp is a simple chat realtime, chat private as well as chat group. Have some features that is signup, login, add contact, delete contact, search, maps, edit profile, chat realtime
+Web App to display all Outlets and Products that have been created in Inventory Management. Can add products to cart and make transactions
 
 ### Built With
 This is an example of how to list things you need to use the software and how to install them.
